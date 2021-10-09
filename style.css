@@ -1,0 +1,100 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+.menyu{
+    width: 100%;
+    height: 100%;
+    background: #F5ECDB;
+}
+.content{
+    width: 100%;
+    height: 700px;
+    background: #F5ECDB;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    line-height: 35px;
+}
+i{
+    color: #f26200;
+}
+.content h1{
+    font-size: 65px;
+    color: #f26200;
+    padding: 20px;
+}
+.bag{
+    width: 100%;
+    height: 400px;  
+}
+.portfolio{
+    padding: 20px;
+}
+.testimonials{
+    width: 100%;
+    height: 650px;
+    background: #F5ECDB;
+    padding: 20px; 
+}
+.card{
+    /* background: #F5ECDB !important; */
+    line-height: 40px;
+}
+.card img{
+    width: 65px;
+    height: 65px;
+    border-radius: 100% !important;
+    margin-left: 250px;
+    margin-top: 50px;
+}
+.card h5{
+    color: #f26200;
+}
+.blog{
+    width: 100%;
+    height: 650px;
+    background: #F5ECDB;
+    padding-top: 50px;
+}
+.blog .radius{
+    width: 65px;
+    height: 65px;
+    border-radius: 100%;
+}
+
+.logotip{
+    width: 100%;
+    height: 100px;
+    text-align: center;
+    word-spacing: 70px;
+    
+}
+.logo{
+    opacity: .3;
+}
+.logo:hover{
+    opacity: .9;
+}
+.footer{
+    width: 100%;
+    height: 550px;
+    margin-top: 150px;
+    background: #F5ECDB;
+    padding: 50px;
+    line-height: 40px;
+}
+.footer .icons{
+    padding-top: 100px;
+    padding-left: 500px;
+   word-spacing: 15px;
+}
+.footer h5{
+    color: #f26200;
+}
+.footer h4{
+    font-size: 16px;
+}
